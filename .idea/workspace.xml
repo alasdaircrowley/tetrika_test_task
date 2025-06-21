@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d84bbd7-5e62-4000-8018-644eab7313fb" name="Changes" comment="done">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WikiParser/solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WikiParser/wiki_parser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,12 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/alasdaircrowley/tetrika_test_task",
-    "accountId": "852849e7-56cd-4278-bb78-d47f0d8ce3b9"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;alasdaircrowley&quot;
   }
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/alasdaircrowley/tetrika_test_task&quot;,
+    &quot;accountId&quot;: &quot;852849e7-56cd-4278-bb78-d47f0d8ce3b9&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -40,8 +48,10 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python tests.Python tests for test_strict_decorator.test_decorator.executor": "Run",
+    "Python tests.Python tests in solution.py.executor": "Run",
     "Python.strict_decorator.executor": "Run",
     "Python.test_strict_decorator.executor": "Run",
+    "Python.wiki_parser.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -55,6 +65,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\tz_tasks\strict_decorator" />
       <recent name="D:\tz_tasks" />
     </key>
   </component>
@@ -97,7 +108,8 @@
       <option name="presentableId" value="Default" />
       <updated>1750427356571</updated>
       <workItem from="1750427357619" duration="2882000" />
-      <workItem from="1750475759973" duration="1792000" />
+      <workItem from="1750475759973" duration="2306000" />
+      <workItem from="1750485110195" duration="4374000" />
     </task>
     <task id="LOCAL-00001" summary="done">
       <option name="closed" value="true" />
@@ -149,8 +161,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="done" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/tz_tasks$.coverage" NAME=" Coverage Results" MODIFIED="1750477231444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tz_tasks$.coverage" NAME=" Coverage Results" MODIFIED="1750503685743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WikiParser" />
     <SUITE FILE_PATH="coverage/tz_tasks$strict_decorator.coverage" NAME="strict_decorator Coverage Results" MODIFIED="1750428668197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tz_tasks$wiki_parser.coverage" NAME="wiki_parser Coverage Results" MODIFIED="1750502218434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WikiParser" />
     <SUITE FILE_PATH="coverage/tz_tasks$test_strict_decorator.coverage" NAME="test_strict_decorator Coverage Results" MODIFIED="1750429391722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
   </component>
 </project>
